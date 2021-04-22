@@ -1,0 +1,19 @@
+.navbar__cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #282c34;
+    height: 70px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1600px;
+    height: 100%;
+    padding: 0 14px;
+}
+.nav__title{
+    font-size: 18px;
+}
